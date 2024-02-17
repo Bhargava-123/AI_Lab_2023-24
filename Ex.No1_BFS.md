@@ -42,18 +42,5 @@ bfs(visited,2,graph)
 ![image](https://github.com/Bhargava-123/AI_Lab_2023-24/assets/85554376/d6696cd2-dfd5-4b42-b179-b82301a350fc)
 
 
-
-
-
-
-
-
-
-
-
-### Output:
-
-
-
 ### Result:
 Thus the breadth first search order was found sucessfully.
