@@ -14,7 +14,7 @@ To write a logic program to design a circuit like half adder and half subtractor
 8. Stop the program.
 
 ### Program:
-
+```
 and(0,1,0).
 and(1,0,0).
 and(1,1,1).
@@ -38,7 +38,7 @@ halfsubtractor(A,B,Diff,Borrow):-
 fullsubtractor(A,B,C,Diff,Borrow):-
 	xor(A,B,X),not(A,M),and(M,B,Y),xor(X,C,Diff),not(X,N),and(N,C,Z),or(Y,Z,Borrow).
 
-
+```
 
 
 
