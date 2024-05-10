@@ -76,6 +76,8 @@ app.launch(share=True)
 ```
 
 ### Output:
+![image](https://github.com/Bhargava-Shankar/AI_Lab_2023-24/assets/85554376/e921a004-8ec7-415f-8fab-dcaa71758db2)
+
 
 
 ### Result:
